@@ -1,0 +1,19 @@
+*{
+    background-color:#FFF8F3;
+    font-family: 'Work Sans';
+}
+.image{
+    
+    width: 150px;
+    height: 150px;
+    border: 1px solid rgba(82, 81, 81, 0.901);
+    box-shadow: 2px 2px 4px gray;
+    
+}
+
+th,td,tr{
+    border: 2px solid black;
+}
+h1{
+    color: orangered;
+}
